@@ -1,8 +1,6 @@
 # Get Smashed Get Smart
 A monstrous amalgam of alcohol, engineering students and knowledge.
 
-[TOC]
-
 ## Key Details
 Where: **D'Star Bistro**
 When: **8pm, 17th September 2019**
@@ -20,9 +18,9 @@ Who: Speakers include:
 
 ### Venue
 
-- [ ] Approach D'Star to express interest
+- [X] Approach D'Star to express interest
 - [ ] Confirm Event with D'Star
-- [ ] [Optional] Arrange deal?
+- [ ] -Optional- Arrange deal?
 
 ### Speakers
 
