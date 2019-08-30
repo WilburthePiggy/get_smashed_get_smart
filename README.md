@@ -7,5 +7,8 @@ It's a short sharing session where speakers share unfiltered experiences in ligh
 ## Who do I contact if I'm interested in this?
 The current planners are Alex (WilburthePiggy) and Qing Ze (fishbiscuit). Leave an issue or something.
 
+## What's the site for this?
+Dis: https://wilburthepiggy.github.io/sutd-unfiltered/
+
 ## Can I do my own version of this?
 Yeah, sure why not. It's under the OpenSUTD umbrella, so do talk to the people in there first so you're not doing double the work.
