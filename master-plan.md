@@ -1,5 +1,5 @@
-# Get Smashed Get Smart
-A monstrous amalgam of alcohol, engineering students and knowledge.
+# SUTD Unfiltered
+A monstrous amalgam of filtered alcohol, engineering students and unfiltered knowledge.
 
 ## Key Details
 Where: **D'Star Bistro**
@@ -21,11 +21,26 @@ Who: Speakers include:
 - [X] Approach D'Star to express interest
 - [ ] Confirm Event with D'Star
 - [ ] -Optional- Arrange deal?
+``` Alex met with Jasmine from D'Star on 30/8/2019 3pm to discuss this.```
 
 ### Speakers
 
-- [ ] Open Jio to internal groups - AMA@DiscoverSUTD
-- [ ] Prepare Email to Select SUTDents
+- [ ] Open Jio to internal groups - AMA@DiscoverSUTD and Open SUTD
+- [ ] Approach Speakers
+```
+Status: Unapproached, Approached, Interested, Not Interested, Briefed
+```
+|Speaker|Status|Topic|Remarks|
+|----|---|---|---|
+|Kenji Ling|Interested| Blockchain and his Internship | Tenatively speaking |
+|Gui An| Interested | Undeclared | |
+|Jun De| Not Interested | - | Stage fright, but will be present to share |
+|Faith See | Approached | - | |
+
+**Speaker Composition**
+|Pillar (EP/ES/IS/AS) |Gender (M/F)|
+|---|---|
+|0/1/1/0|1/1| 
 
 ```
 Dear XX,
@@ -41,6 +56,8 @@ Thank you for your time.
 Regards,
 Alexander
 ```
+
+- [ ] Brief Speakers
 - [ ] Confirm Speakers
 - [ ] Collect Presentations
 
@@ -54,4 +71,5 @@ Alexander
 
 - [ ] Laptop for day itself
 - [ ] Furniture re-arrangement
+
 
