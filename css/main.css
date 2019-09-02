@@ -1,6 +1,6 @@
 html,body {
   background: #EFF3F4;
-  font-family: 'Open Sans', serif;
+  font-family: 'Gotham', serif;
 }
 .hero-body .container {
   max-width: 700px;
@@ -9,9 +9,16 @@ html,body {
   color: hsl(192,17%,99%) !important;
 }
 .hero-body .subtitle {
-  color: hsl(192,17%,99%) !important;
+  color: rgb(0, 0, 0) !important;
   padding-top: 2rem;
   line-height: 1.5;
+}
+a {
+  color: #A31E35 !important;
+  text-decoration: underline
+}
+i {
+  color: #A31E35 !important;
 }
 .features {
   padding: 5rem 0;
@@ -53,7 +60,7 @@ html,body {
 }
 .is-shady {
 animation: flyintoright .4s backwards;
-background: #fff;
+background: rgb(255, 255, 255);
 box-shadow: rgba(0, 0, 0, .1) 0 1px 0;
 border-radius: 4px;
 display: inline-block;
@@ -89,7 +96,7 @@ footer li:before {
   color: #147efb;
 }
 .flashit{
-  color:#f2f;
+  color:#A31E35;
 	-webkit-animation: flash linear 1s infinite;
 	animation: flash linear 1s infinite;
 }
